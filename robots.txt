@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://angka-togel-akurat.github.io/sabtu-2/sitemap.xml
